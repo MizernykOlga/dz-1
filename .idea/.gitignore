@@ -25,3 +25,5 @@ release.properties
 *.iml
 *.ipr
 out/
+# VS Code
+.vscode/
